@@ -1,4 +1,4 @@
-<img src="(https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-ieic5Tq8YMk)" alt="GitHub Banner" width="100%" /> 
+<img src="https://unsplash.com/photos/a-computer-screen-with-a-bunch-of-code-on-it-ieic5Tq8YMk" alt="GitHub Banner" width="100%" /> 
 # Hi 👋! I am Malak, a Computer Engineer
 👨🏼‍💻 currently working on Digital-Wallet<br>👨🏼‍🎓 studying Software Engineering at SE Factory<br>
 
