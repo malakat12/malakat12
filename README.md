@@ -1,4 +1,3 @@
-<img src="https://www.american.edu/wcl/impact/initiatives-programs/techlaw/images/Website-Banner-Image_7_1.jpg" alt="GitHub Banner" width="100%" /> 
 # Hi 👋! I am Malak, a Computer Engineer
 👨🏼‍💻 currently working on Digital-Wallet<br>👨🏼‍🎓 studying Software Engineering at SE Factory<br>
 
