@@ -1,5 +1,5 @@
 
-# Hi 👋!I am Malak, a Computer Engineer
+# Hi 👋! I am Malak, a Computer Engineer
 👨🏼‍💻 currently working on Digital-Wallet<br>👨🏼‍🎓 studying Software Engineering at SE Factory<br>
 
 # 💻 Tech Stack:
