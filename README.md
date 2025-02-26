@@ -1,6 +1,6 @@
 
 # Hi 👋! My name is Malak and I'm a Computer Engineer, from Lebanon
-👨🏼‍💻 currently working on Digital-Wallet(https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying Software Engineering at SE Factory<br>
+👨🏼‍💻 currently working on Digital-Wallet<br>👨🏼‍🎓 studying Software Engineering at SE Factory<br>
 
 # 💻 Tech Stack:
 
