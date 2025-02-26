@@ -1,5 +1,6 @@
 
-# Hi 👋! My name is Malak and I'm a Computer Engineer, from Lebanon
+# Hi 👋! 
+My name is Malak and I'm a Computer Engineer from Lebanon interested in everything related to AI/ML 
 👨🏼‍💻 currently working on Digital-Wallet<br>👨🏼‍🎓 studying Software Engineering at SE Factory<br>
 
 # 💻 Tech Stack:
