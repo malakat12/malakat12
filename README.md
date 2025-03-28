@@ -1,5 +1,5 @@
 # Hi 👋! I am Malak, a Computer Engineer
-👨🏼‍💻 Currently studying Software Engineering<br>👨🏼‍🎓 studying Full-Stack Software Engineering<br>
+👨🏼‍💻 Currently working on an ai based project<br>👨🏼‍🎓 studying Full-Stack Software Engineering<br>
 
 # 💻 Tech Stack:
 
